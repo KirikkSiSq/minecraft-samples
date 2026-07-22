@@ -1,12 +1,12 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Light post BP",
-		"description": "Light post behaviour pack",
+		"name": "Multi-block BP",
+		"description": "Multi-block behaviour pack",
 		"min_engine_version": [
 			1,
 			26,
-			10
+			40
 		],
 		"uuid": "9cb9e514-aa31-44bf-aaaa-2e2f0a893ce6",
 		"version": [
@@ -50,7 +50,7 @@
 		},
 		{
 			"module_name": "@minecraft/server",
-			"version": "beta"
+			"version": "2.9.0"
 		}
 	]
 }

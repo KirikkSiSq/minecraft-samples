@@ -1,8 +1,8 @@
 {
-	"format_version": "1.26.1",
+	"format_version": "1.26.40",
 	"minecraft:block": {
 		"description": {
-			"identifier": "multiblock:light",
+			"identifier": "multi_block:light",
 			"traits": {
 				"minecraft:placement_direction": {
 					"enabled_states": [

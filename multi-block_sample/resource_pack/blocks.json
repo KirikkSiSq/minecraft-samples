@@ -4,7 +4,10 @@
 		1,
 		0
 	],
-	"multiblock:light": {
+	"multi_block:light": {
 		"sound": "metal"
+	},
+	"multi_block:horizontal_log": {
+		"sound": "wood"
 	}
 }

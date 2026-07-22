@@ -1,8 +1,11 @@
 {
-  "format_version": "1.21.100",
+  "format_version": "1.26.40",
   "minecraft:item": {
     "description": {
-      "identifier": "multiblock:light"
+      "identifier": "multi_block:light",
+      "menu_category": {
+        "category": "items"
+      }
     },
     "components": {
       "minecraft:icon": {
@@ -11,7 +14,7 @@
         }
       },
       "minecraft:block_placer": {
-        "block": "multiblock:light",
+        "block": "multi_block:light",
         "replace_block_item": true
       },
       "minecraft:display_name": {

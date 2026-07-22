@@ -1,12 +1,12 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Light post RP",
-		"description": "Light post resource pack",
+		"name": "Multi-block RP",
+		"description": "Multi-block resource pack",
 		"min_engine_version": [
 			1,
 			26,
-			10
+			40
 		],
 		"uuid": "f7de05e6-ef3f-4ed2-83b7-e7b08426e67a",
 		"version": [
